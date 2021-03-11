@@ -1,3 +1,5 @@
+![diagram](/metadata/diagram.png)
+
 # Scrape your bank transactions to stdout jsonlines (with NemId)
 
 <a href="https://www.buymeacoffee.com/sloev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-pink.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
@@ -6,7 +8,6 @@
 
 ## How it works
 
-![diagram](/metadata/diagram.png)
 
 `scrape.js` logs into your netbank using NemId credentials, it will click "send auth request" which will prompt your NemId app to let you authenticate.
 
